@@ -19,7 +19,7 @@ The russian version of the task can be found in the repository.
 4. [Chapter IV](#chapter-iv)
 
 
-## Chapter I
+# Chapter I
 
 ## Level 2. Room 2.
 
@@ -33,7 +33,7 @@ Another room, another door. Everything is the same.. or not? Emptiness is in fro
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## List 1.
 
@@ -62,7 +62,7 @@ But that's life.
 ***LOADING...***
 
 
-## Chapter III
+# Chapter III
 
 ## Quest 1. Sort & memory.
 
@@ -209,7 +209,7 @@ You have barely finished the code for the circular shift for the AI when you hea
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
 Having finished the arithmetics and pushed all the changes in your repository, you hear a slight click: the door opens slightly and bright white light starts filling the room through a small crack. The AI has not fooled you this time around. \
 But what's the AI going to do when you are forced to repair it entirely? Perhaps the entire labyrinth was built to restrain it. Then again, if you don't fix it, you won't be able to get out... \
