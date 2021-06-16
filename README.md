@@ -121,7 +121,7 @@ You see the following text on the screen:
 After talking to the AI, you have little choice. If you want to get out of the room, you will need to help it organize the data in memory, without access to the stdlib.h library since the AI is unable to access it. \
 Do not forget about the principles of structured programming: the AI might want to analyze your code.
 
-***== Quest 1 received. Create an src/sort.c program that expects an stdin array with the length of 10 integers for input and outputs the same array sorted in ascending order. Arrange the functions of reading, sorting and output of the array separately. You can use any sorting algorithm. Using stdlib.h is not allowed. You can only work with the array via the pointer. ==***
+***== Quest 1 received. Create an src/sort.c program that expects an stdin array with the length of 10 integers for input and outputs the same array sorted in ascending order. Arrange the functions of reading, sorting and output of the array separately. You can use any sorting algorithm. Using stdlib.h is not allowed. You can only work with the array via the pointer. For errors, display "n/a". ==***
 
 ***LOADING…***
 
@@ -142,7 +142,7 @@ Having finished developing the algorithm for sorting AI data and debugging it, y
     And don't create deep nested loops and conditions. 
     I hate nesting of over 3 levels in algorithms.
 
-***== Quest 2 received. Create an src/fast_sort.c program that sorts an array of 10 elements in ascending order using two different sorting algorithms with theoretical estimates of computational complexity no higher than nlog(n) (e.g. quicksort and heapsort). In the first line of stdout, output the array sorted by the first algorithm; in the second line–by the second algorithm. You are not allowed to use stdlib.h or third-party libraries. Follow the principles of structured programming. ==***
+***== Quest 2 received. Create an src/fast_sort.c program that sorts an array of 10 elements in ascending order using two different sorting algorithms with theoretical estimates of computational complexity no higher than nlog(n) (e.g. quicksort and heapsort). In the first line of stdout, output the array sorted by the first algorithm; in the second line–by the second algorithm. You are not allowed to use stdlib.h or third-party libraries. Follow the principles of structured programming. For errors, display "n/a". ==***
 
 ***LOADING…***
 
@@ -170,7 +170,7 @@ A usual launch of the AI module.
 
 You open the file with the key and see the code, broken down into several blocks, functions, and comments. Who could leave these comments? The creator of the AI or the people who are looking for a way out of this godforsaken labyrinth with endless doors and rooms together with you? One way or another, you need to figure out how to activate the key. And don't forget to record everything in the repository. Otherwise, the key may not work.
 
-***== Quest 3 received. Modify the src/key9part1.c program so it can receive the array's length and an array of integers. The program should output in stdout the sum of the even elements of the array from the 0 position and the newly formed array from the elements of the old one, by which the previously calculated sum is divided evenly. Decreasing the decomposition is not allowed–you can add functions if needed, but you cannot delete them. ==***
+***== Quest 3 received. Modify the src/key9part1.c program so it can receive the array's length and an array of integers. The program should output in stdout the sum of the even elements of the array from the 0 position and the newly formed array from the elements of the old one, by which the previously calculated sum is divided evenly. Decreasing the decomposition is not allowed–you can add functions if needed, but you cannot delete them. For errors, display "n/a". ==***
 
 ***LOADING…***
 
@@ -192,7 +192,7 @@ Looks like the AI has fooled you. Part of the key is actually a part of a data p
 
 Not only has the AI deceived you, but it also seems to be mocking you. Unfortunately, you still have no choice. You'll have to play by its rules for now and write this program for a circular shift.
 
-***== Quest 4 received. Create an src/cycle_shift.c program that receives `a` number `n`, an array `A` with `n` integers, and a number `c` by which all elements of the array must rotate to the left. If the value of `c` is negative, the shift in the array must occur to the right. A modified array is expected as output. Stick to the recommended decomposition, like in the previous quests. ==***
+***== Quest 4 received. Create an src/cycle_shift.c program that receives `a` number `n`, an array `A` with `n` integers, and a number `c` by which all elements of the array must rotate to the left. If the value of `c` is negative, the shift in the array must occur to the right. A modified array is expected as output. Stick to the recommended decomposition, like in the previous quests. For errors, display "n/a". ==***
 
 ***LOADING...***
 
@@ -204,7 +204,7 @@ You have barely finished the code for the circular shift for the AI when you hea
 >Well done, human. Access to information has become much quicker and more convenient.
 >You can find your key in src/key9part2.c. See you in the following rooms. There's still a lot of work to be done!
 
-***== Quest 5 received. Modify the src/key9part2.c program so it returns the result of addition and subtraction of two very large numbers that were passed to the program as input in the form of arrays. Maximum number length: 100 elements of type int. If the subtrahend is higher than the minuend, "n/a" must be displayed instead of the difference. Stick to the decomposition, like in the previous quests. ==***
+***== Quest 5 received. Modify the src/key9part2.c program so it returns the result of addition and subtraction of two very large numbers that were passed to the program as input in the form of arrays. Maximum number length: 100 elements of type int. If the subtrahend is higher than the minuend, "n/a" must be displayed instead of the difference. Stick to the decomposition, like in the previous quests. For errors, display "n/a". ==***
 
 ***LOADING...***
 
