@@ -65,7 +65,7 @@ But that's life.
 
 
 # Chapter III
-
+>**Attention!** In the quests of this day, it is forbidden to use dynamic memory.
 ## Quest 1. Sort & memory.
 
 You dig through the deep catalogs of the computer and find another AI module.
@@ -134,7 +134,7 @@ Do not forget about the principles of structured programming: the AI might want 
 > DON'T FORGET! All your programs are tested for the style norm and memory leaks. Start-up instructions
 > the list of tests is also in the `materials` folder
 
-## Quest 2*. Sort.
+## Bonus Quest 2*. Sort.
 
 Having finished developing the algorithm for sorting AI data and debugging it, you decide that it's time to talk to the AI once again.
 
