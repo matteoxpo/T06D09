@@ -182,7 +182,7 @@ A usual launch of the AI module.
 
 You open the file with the key and see the code, broken down into several blocks, functions, and comments. Who could leave these comments? The creator of the AI or the people who are looking for a way out of this godforsaken labyrinth with endless doors and rooms together with you? One way or another, you need to figure out how to activate the key. And don't forget to record everything in the repository. Otherwise, the key may not work.
 
-***== Quest 3 received. Modify the src/key9part1.c program so it can receive the array's length and an array of integers. The program should output in stdout the sum of the even elements of the array from the 0 position and the newly formed array from the elements of the old one, by which the previously calculated sum is divided evenly. Decreasing the decomposition is not allowed–you can add functions if needed, but you cannot delete them. Using stdlib.h is not allowed. You can only work with the array via the pointer. For errors, display "n/a". ==***
+***== Quest 3 received. Modify the src/key9part1.c program so it can receive the array's length and an array of integers. The program should output in stdout the sum of the even elements of the array from the 0 position and the newly formed array from the elements of the old one, by which the previously calculated sum is divided evenly. Decreasing the decomposition is not allowed–you can add functions if needed, but you cannot delete them. Using stdlib.h is not allowed. You can only work with the array via the pointer. The maximum size of the input array is 10. For errors, display "n/a". ==***
 
 | Input | Output |
 | ------ | ------ |
