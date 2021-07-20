@@ -11,7 +11,7 @@
  2.1. [List 1.](#list-1)
 3. [Chapter III](#chapter-iii) \
  3.1.  [Quest 1. Sort & memory.](#quest-1-sort-memory) \
- 3.2.  [Quest 2*. Sort.](#quest-2-sort) \
+ 3.2.  [Bonus Quest 2*. Sort.](#bonus-quest-2-sort) \
  3.3.  [Quest 3. Several arrays.](#quest-3-several-arrays) \
  3.4.  [Quest 4. Cyclic shift.](#quest-4-cyclic-shift) \
  3.5.  [Quest 5. Arbitrary-precision arithmetic.](#quest-5-arbitrary-precision-arithmetic)

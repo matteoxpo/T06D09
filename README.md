@@ -14,7 +14,7 @@ You can find some useful video materials [here](https://edu.21-school.ru/video/s
  2.1. [List 1.](#list-1)
 3. [Chapter III](#chapter-iii) \
  3.1.  [Quest 1. Sort & memory.](#quest-1-sort-memory) \
- 3.2.  [Quest 2*. Sort.](#quest-2-sort) \
+ 3.2.  [Bonus Quest 2*. Sort.](#bonus-quest-2-sort) \
  3.3.  [Quest 3. Several arrays.](#quest-3-several-arrays) \
  3.4.  [Quest 4. Cyclic shift.](#quest-4-cyclic-shift) \
  3.5.  [Quest 5. Arbitrary-precision arithmetic.](#quest-5-arbitrary-precision-arithmetic)
@@ -208,7 +208,7 @@ Looks like the AI has fooled you. Part of the key is actually a part of a data p
 
 Not only has the AI deceived you, but it also seems to be mocking you. Unfortunately, you still have no choice. You'll have to play by its rules for now and write this program for a circular shift.
 
-***== Quest 4 received. Create an src/cycle_shift.c program that receives `a` number `n`, an array `A` with `n` integers, and a number `c` by which all elements of the array must rotate to the left. If the value of `c` is negative, the shift in the array must occur to the right. A modified array is expected as output. Stick to the recommended decomposition, like in the previous quests. Using stdlib.h is not allowed. You can only work with the array via the pointer. For errors, display "n/a". ==***
+***== Quest 4 received. Create an src/cycle_shift.c program that receives a number `n`, an array `A` with `n` integers, and a number `c` by which all elements of the array must rotate to the left. If the value of `c` is negative, the shift in the array must occur to the right. A modified array is expected as output. Stick to the recommended decomposition, like in the previous quests. Using stdlib.h is not allowed. You can only work with the array via the pointer. For errors, display "n/a". ==***
 
 | Input | Output |
 | ------ | ------ |
