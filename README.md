@@ -150,7 +150,7 @@ Having finished developing the algorithm for sorting AI data and debugging it, y
     And don't create deep nested loops and conditions. 
     I hate nesting of over 3 levels in algorithms.
 
-***== Quest 2 received. Create an src/fast_sort.c program that sorts an array of 10 elements in ascending order using two different sorting algorithms with theoretical estimates of computational complexity no higher than nlog(n) (e.g. quicksort and heapsort). In the first line of stdout, output the array sorted by the first algorithm; in the second line–by the second algorithm. You are not allowed to use stdlib.h or third-party libraries. Follow the principles of structured programming. Using stdlib.h is not allowed. Passing an array to a function only by pointer. For errors, display "n/a". ==***
+***== Quest 2 received. Create an src/fast_sort.c program that sorts an array of 10 elements in ascending order using two different sorting algorithms with theoretical estimates of computational complexity no higher than nlog(n) (e.g. quicksort and heapsort). In the first line of stdout, output the array sorted by the first algorithm; in the second line–by the second algorithm. You are not allowed to use stdlib.h or third-party libraries. Follow the principles of structured programming. Passing an array to a function only by pointer. For errors, display "n/a". ==***
 
 | Input | Output |
 | ------ | ------ |
@@ -224,7 +224,7 @@ You have barely finished the code for the circular shift for the AI when you hea
 >Well done, human. Access to information has become much quicker and more convenient.
 >You can find your key in src/key9part2.c. See you in the following rooms. There's still a lot of work to be done!
 
-***== Quest 5 received. Modify the src/key9part2.c program so it returns the result of addition and subtraction of two very large numbers that were passed to the program as input in the form of arrays. Maximum number length: 100 elements of type int. If the subtrahend is higher than the minuend, "n/a" must be displayed instead of the difference. Stick to the decomposition, like in the previous quests. Using stdlib.h is not allowed. Passing an array to a function only by pointer. For errors, display "n/a". ==***
+***== Quest 5 received. Modify the src/key9part2.c program so it returns the result of addition and subtraction of two very large numbers that were passed to the program as input in the form of arrays. Maximum number length: 100 elements of type int. The integers you enter are decimal digits. If the subtrahend is higher than the minuend, "n/a" must be displayed instead of the difference. Stick to the decomposition, like in the previous quests. Using stdlib.h is not allowed. Passing an array to a function only by pointer. For errors, display "n/a". ==***
 
 | Input | Output |
 | ------ | ------ |
