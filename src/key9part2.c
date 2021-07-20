@@ -2,8 +2,8 @@
 
 #define LEN 100
 
-void sum(int *buff1, int len1, int *buff2, int len2, int *result);
-void sub(int *buff1, int len1, int *buff2, int len2, int *result);
+void sum(int *buff1, int len1, int *buff2, int len2, int *result, int *result_length);
+void sub(int *buff1, int len1, int *buff2, int len2, int *result, int *result_length);
 
 /*
     Беззнаковая целочисленная длинная арифметика
