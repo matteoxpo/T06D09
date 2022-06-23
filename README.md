@@ -150,7 +150,7 @@ Having finished developing the algorithm for sorting AI data and debugging it, y
     And don't create deep nested loops and conditions. 
     I hate nesting of over 3 levels in algorithms.
 
-***== Quest 2 received. Create an src/fast_sort.c program that sorts an array of 10 elements in ascending order using two different sorting algorithms with theoretical estimates of computational complexity no higher than nlog(n) (e.g. quicksort and heapsort). In the first line of stdout, output the array sorted by the first algorithm; in the second line–by the second algorithm. You are not allowed to use stdlib.h or third-party libraries. Follow the principles of structured programming. Passing an array to a function only by pointer. For errors, display "n/a". ==***
+***== Quest 2 received. Create an src/fast_sort.c program that sorts an array of 10 integer elements in ascending order using two different sorting algorithms with theoretical estimates of computational complexity no higher than nlog(n) (e.g. quicksort and heapsort). In the first line of stdout, output the array sorted by the first algorithm; in the second line–by the second algorithm. You are not allowed to use stdlib.h or third-party libraries. Follow the principles of structured programming. Passing an array to a function only by pointer. For errors, display "n/a". ==***
 
 | Input | Output |
 | ------ | ------ |
